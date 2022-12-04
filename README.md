@@ -7,11 +7,13 @@
 ## 지문 읽기
 
 - 발음 연습
-  - reached 뤼이ㅊㅌ (ea가 길게 발음 되어야함)
+  - reached 뤼이ㅊㅌ (장모음, ea는 길게 끌어주며 발음 되어야함)
     - ex) watched 워ㅊㅌ / changed 췌엔ㅊㅌ
   
   - temperatures : 템펄쳘스
   - ever wanted to : 에버 워니 투
+  - increase 명 : /인크리스, 동 : \인/크리스
+  - We'll 윌
   
 - 강세
   - Why ~~~~ ? 일때는 마지막에 내리는게 자연스럽다. 
@@ -71,9 +73,24 @@
   - it appears that the man and woman are fashion designers.
   - overall, this picture looks calm and peaceful. it gives me positive feelings.
 
-
+- 캠핑 (at a camping site outdoors)
+  - This photo was taken at a camping site.
+  - What I notice first is a woman with short curly hair taking a picture. She is wearing  checkerd shirt.
+  - In front of her, a group of people are smiling at a camera. Behind them, I can see tents on the ground.
+  - there are some  trees with plenty of branches.
+  - the weather is sunny and very good for outdoor activities.
+  - generally, it appears that the campers are having a good time together.
+  - and it gives me positive feeliings.
+- 식료품 점
+  - This  picture was taken at a grocery store.
+  - What I notice first is a man holding a fridge  handle. he has dark hair and a beard, and  is wearing a blue jacket.
+  - in front of hime, there  is a cart filled with some vegetables and fruit. In the distance(in the background), two people are also browsing the refrigerated foods section.
+  - overall, this picture looks calm and peacefull. and it gives me positive feelings.
+  - (Overall, it seems like a slow day at the store.)
 
 - words
+  - fridge handle 냉장고 손잡이
+  - fruit(불가산), vegitables(가산)
   - on both sides, : 사진 양 옆에는
   - foreground and background of the picture : 사진 앞/뒤에는
   - sewing machine 재봉틀
@@ -81,6 +98,11 @@
   - hiking sticks(하이킹용 지팡이), beard(턱수염)
   - (large, construction) vehicle : 특수차량, 명칭을 모르는 차량도 vehicle로 설명 할 수 있다!
   - dirt mountain (산더미의 흙)
+  - checkerd shirt 체크무늬 셔츠
+  - smiling  at(for) the camera.
+    - smiling to 는 안돼요.
+  
+  - Pannant banners, a string of colorful flags 삼각 깃발
   
 
 # Q 5 ~7
