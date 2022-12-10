@@ -14,6 +14,7 @@
   - ever wanted to : 에버 워니 투
   - increase 명 : /인크리스, 동 : \인/크리스
   - We'll 윌
+  - modern 마더얼언
   
 - 강세
   - Why ~~~~ ? 일때는 마지막에 내리는게 자연스럽다. 
@@ -29,6 +30,9 @@
     - we will tour the rainforest, woodland, and wetland areas.
   - 구 앞이나 절 앞에서 끊어주세요.
     - We apologize for any inconvenience this may cause.
+
+- 어휘
+  - rainforests 열대우림.
 
 # Q3 ~ 4
 
@@ -88,6 +92,24 @@
   - overall, this picture looks calm and peacefull. and it gives me positive feelings.
   - (Overall, it seems like a slow day at the store.)
 
+- 집앞 야외
+  - This picture was taken outdoors.
+  - What I  notice first is a  woman with short, blond hair. She is standing in the back of the truck and handling a box over to a man in front of her.
+  - The man is reaching for the box (the man is taking the box.)
+  - In the background, I can see another man in a red cap and a T-shirt holding a box  in front of a house.
+  - Overall, It appears that some peoples are moving some boxes in front of a house.
+  - + Overall The weather is sunny and very good for outdoor activities.
+  - this picture looks calm and  peaceful, and it gives me positive feelings.
+
+- 야자수 해변가
+  - This picture was taken at a beach.
+  - What i notice first is a wooden sofa with yellow cushions at the center.
+  - The sofa is surrounded by big palm trees with plenty of leaves
+  - in the background, there are several beach umbrellas and empty chairs.
+  - in the distance, the blue sea water is shining in the sunlight.
+  - Overall, The weather is sunny and very good for outdoor activities.
+  - this picture looks calm and peacefull. and it gives me positive feelings.
+
 - words
   - fridge handle 냉장고 손잡이
   - fruit(불가산), vegitables(가산)
@@ -101,9 +123,9 @@
   - checkerd shirt 체크무늬 셔츠
   - smiling  at(for) the camera.
     - smiling to 는 안돼요.
-  
+
   - Pannant banners, a string of colorful flags 삼각 깃발
-  
+
 
 # Q 5 ~7
 
@@ -124,6 +146,12 @@
 - Location
   - Usually, ~~~~ are located where people can easiliy access them.
   - around the city, which is very convenient.
+
+#### 질문에 대답을 바로 할 수 없을 때 말할 수 있는 템플릿
+
+- Well, it depends (on the situation. on what i'm making). 상황에 따라 달라요.
+- Well, I'm not quite sure, but.. 정확하게는 모르지만,
+- Well... 음...
 
 ### 마지막 시간 있을때
 
@@ -148,6 +176,11 @@ also,
 - If you wanted to get a pet, where would you go to get one?
   - If I wanted a pet, I would go to the animal shelter. They have dogs and cats that need a home. I would adopt one.
   - Animal shelters provide well-maintainied faciliities for animal. Also, the environment is clean. so I can trust them.
+- How often do you cook, and what type of food do you usually make?
+  - I cook dinner for myself and family almost every evening, and i usually make Korean food.
+  - Well, it depends on what I'm making. but on average, it takes about an hour (from start to finish.)
+  - Well, on average, it takes about an hour from start to finish
+  
 
 How far? ... 은 거리에 관한 질문이다.
 
@@ -176,6 +209,18 @@ How far? ... 은 거리에 관한 질문이다.
   - Time, Money, Effort
   - There are some advantages of having pets. First, it helps reduce to stress of a dailiy routine. Cats and dogs make great companions. if you have pets at home, you will feel less lonely. Also, having pets helps people socialize. it is easy to start a conversation with someone who has pets, because you have a common interest.
   - There are some disadvantages of having pets. First, pets take up your time. You need to play with them. give them bathes, and clean up after them. Second, pet are expensive. You need to pay for their food and also their  medicine if they get sick. These are just some of the disadvantages of having pets.
+- I'd like to learn how to cook. Do you have suggestions about where I can learn?
+  - 1) Yes, I suggest you use the internet to find good recipes. 
+  - First, I would recommend searching online for good recipes, There are many Web sites with detailed recipes that you can download for free. 
+  - In addition, you should watch videos of people cooking similar types of food.
+  - This is the fastest way of learning new recipes. So, I definitely think you can learn how to cook online.
+  - (**You will definitely save lots of time, money and effort.**)
+  - 2) I recommend you read a cookbook. First, many celebrity chefs share their special recipes in the book.
+  - Also, there are many tips and secrets to make the food taste better!
+  - 3) I suggest that you learn from people around you.
+  - First, you can easily follow the steps, and they will teach you how to cook the meal thoroughly.
+  - Also, you can have a good time with your family and friends while cooking together.
+  
 
 
 
@@ -203,12 +248,18 @@ store opens day and night
 
 you have the wrong information. The special event, a meet-and-greet, is planned for after The Blossom's show. do you want more details about it?
 
+
+
+- The picnic will be held on August 23rd, and the first event, Coctails and Catch-Up" will start at 11 a.m
+
 ### Q10
 
 There are two bands available for booking in October. The first is Team Cloud. They will be playing on October 8 and 9.
 The second is The Eleventh Star. They will perform on October 15 and 16. You can book tickets for either of them. Do you want more details about it?
 
 
+
+- Sure, you can take your children with you to the picnic. Family members, including children, are welcome.
 
 
 
@@ -255,6 +306,25 @@ I can have new experience. and expand my view.
 
 I can meet people from diverse cultural background.
 다양한 문화적 배경을 가진 사람들을 만날 수 있습니다.
+
+Q. Do you agree or disagree with the following statement? 
+
+- I agree that employees should not be required to work overtime for several reasons. First, emplyees experience a lot less stress when they go home on time. 
+- To be specific, a heavy workload followed by working overtime thends to disrupt work-life balance. resulting in more stress on employees, 
+- Secondly, working overtime doesn't mean higher work efficiency. First instance, more work means that there are more things to manage simultaneously.
+- so it's easier to lose track of tasks. For these reasons, I think employees should not be required to work overtime.
+
+<my opinion>
+
+Employees should not be required to work overtime.
+
+I agree that emplyees should not be required to work overtime for many reasons.
+
+first, as a employee, if i don't work overtime, I will experience a lot less stress when I go home on time. and i can make my work more effectively and efficiently whenever I work.
+
+and also i think this is what really matters now. society tells employees not to work overtime but most employees don't follow that. so it is getting more and more important I think
+
+also. and not just me, but most people think that working overtime doesn't mean higher work efficiency.
 
 
 
