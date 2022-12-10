@@ -171,6 +171,12 @@ also,
 
 ## Q5
 
+How often do you go shopping for groceries, and where do you usually go?
+
+- I go shopping for groceries about once or twice a week. and I usually go department store near my house. 
+  - It takes about 5 minutes on foot. so I can save my time, and efforts.
+  - I usually buy groceries online, because I can save time, and efforts by doing that. 
+
 - Do most poeple have pets where you live? What types of pets are popular?
   - Yes, most poeple have pets where I live. Cats and dogs are popular types of pets in my area. I also have two cats.
 - If you wanted to get a pet, where would you go to get one?
@@ -203,7 +209,18 @@ How far? ... 은 거리에 관한 질문이다.
 - 함께의 장점
   - I can always share some ideas and opinions about ~, I like to have company (a 붙히면 안됨!)
 
+## Q6
+
+And what kind of things do you usually buy there?
+
+- I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
+
 ## Q7
+
+- Which factor do you consider the most when you go grocery shopping? (Price, Location, Selection of foods that are available)
+  - When I go grocery shopping, I consider the price the most important factor. First, a low price lets me buy a large quantity without spending too much, so I can make more meals for my family. In addition, if I can save on groceries, I can spend more money on other important things! also, I have to consider finance all the time.
+  - so these are my reasons.
+    - I don't wanna spend lots of money on ~
 
 - What are some disadvantages of having pets?
   - Time, Money, Effort
@@ -244,26 +261,58 @@ store opens day and night
   - You have selected..., ~를 선택하셨습니다. 
 - 월 앞에는 in, 날짜 on
 
-### Q8
+## Q8
 
 you have the wrong information. The special event, a meet-and-greet, is planned for after The Blossom's show. do you want more details about it?
 
-
-
 - The picnic will be held on August 23rd, and the first event, Coctails and Catch-Up" will start at 11 a.m
 
-### Q10
+When is my ..
+
+- You will take a flight to Toronto on October 30th at 9:00 A.M. and the flight number if 578.
+
+## Q9
+
+I heard that I'll be going to the orchestra concert on Sunday. Is that right?
+
+- I'm sorry, but that information is incorrect. The orchestra concert is scheduled for Tuesday, November 1st. it will start at 7PM.
+
+## Q10
 
 There are two bands available for booking in October. The first is Team Cloud. They will be playing on October 8 and 9.
 The second is The Eleventh Star. They will perform on October 15 and 16. You can book tickets for either of them. Do you want more details about it?
 
-
-
 - Sure, you can take your children with you to the picnic. Family members, including children, are welcome.
+
+Can you let me know what I'll be doing on the second day of my trip?
+
+- sure. first, you will attent a sales traning workshop at 9:30 AM. and the workshop will take pplace at the JT distributors headquarters. 
+- After that, you will go on a factory tour at the JT manufacturing center, which willl be held at 1P.M. 
+- Finally, the last event of the second day is a sales team meeting at 4 P.M., which will take place at the Hilltop hotel conference center.
 
 
 
 ## Q11
+
+What are the advantages of studying alone compared to studying in a group?
+
+Give reasons and specific examples to support your opinion.
+
+혼자 공부하는게 좋은 이유
+
+- There are the davantages of studying alone compared to studying in a group for many reasons.
+- First, if I study alone, I can concentrate on my work, become productive, and have a better outcome. So, I can do my work more effectively, and efficiently.
+  - studying in a group can be distracting because there's often a sense of competition.
+  - some people are more interested in showing off what they know than helping others, which can be annoying.
+- also, I think, this is what really matters now. society tells my students to study alone to concentrate on their work. but most student's don't follow that. so it's getting more and more important I think.
+- also, and not just me, but most people think that to concentrate on myself, studying alone is way better.
+- so these are my reasons.
+
+함께 공부하는게 좋은 이유
+
+- There are more advantages of studying in a group. 
+- I can always share some thoughts and opinions on the subject with others. Other people can come up with ideas that I didn't think of.
+- I like having company because I can be motivated by others with many information.
 
 
 
@@ -283,7 +332,7 @@ Do you agree or disagree 로 시작할 경우 :
 
 - I think ~ is the most important  ~ for many reasons
 
-Advantages / disadvantages?
+Advantages/disadvantages?
 
 - There are many advantages of + V ing
 
