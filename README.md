@@ -267,6 +267,93 @@ The second is The Eleventh Star. They will perform on October 15 and 16. You can
 
 
 
+## Template
+
+## 서론 템플릿
+
+Do you agree or disagree 로 시작할 경우 :
+
+- I agree that / I disagree that (의견 문장 그대로 읽기!) for many reasons.
+
+문제에서 일반동사 (prefer ~ / consider ~ / think ~)가 보이면 : 옵션을 "일반 동사" 바로 뒤에 넣고 읽습니다.
+
+- I prefer to V for many reasons. / I consider ~~~ for many reasons.
+
+문제에서 is가 보이면 : 옵션을 be 동사 is 바로 앞에 넣고 읽습니다.
+
+- I think ~ is the most important  ~ for many reasons
+
+Advantages / disadvantages?
+
+- There are many advantages of + V ing
+
+## 본론 템플릿
+
+First, as a employee, If I ~  it is good to ~
+
+So I can V more conveniently / easily / effectively / efficiently / succesfully
+
+However, it is not really possible when i think about other options
+
+Also, ~ (사회 / 집중 / 향상 / 정보 / 경험 / 이해 / people 템플릿!)
+
+And not just me but most people think that ~ is very important (is way better)
+
+So, these are my reasons.
+
+
+
+## 본론 템플릿 모음
+
+## 공통 템플릿
+
+- ​	직장 / 교육 / 일상 여러가지 상황에서 적용할 수 있는 템플릿입니다.
+
+### 사회 템플릿
+
+Also, I think this is what really matters now. society tells people to V. 
+but most people don't follow that. So, it's getting more and more important i think.
+
+### 집중 템플릿
+
+If ~, I can fully concentrate on my work, become productive, and have a better outcome.
+
+### 향상 템플릿
+
+If ~, I can improve my problem-solving skills. Also, I can develop self-discipline(자제력)
+So, I think they are the most essential part of my life and career.
+
+- 향상 템플릿에 사용 가능한 어휘들
+  - problem-solving skills 문제해결 능력
+  - self-discipline. 자제력
+  - responsibilities 책임감
+  - creativities 창의력
+  - leadership 리더십
+  - confidence 자신감
+  - knowledge in ~, ~에 대한 지식
+  - cooperation skills, 협동심
+  - my social skills and communication skills, 사회성과 소통능력
+
+## 일상 템플릿
+
+- 직장 외에도 일상에서 일어나는 여러가지 주제를 다룹니다.
+
+### 정보 템플릿
+
+If ~, I can get the information / that I need. also, They usually know things I don't know. so their opinions is very important to me.
+
+### 경험 템플릿
+
+(I can have lots of experience / ~~ have lots of experience). And well, experience is very important, because people with experience can solve the problems better and help others better.
+
+### 이해 템플릿
+
+### PEOPLE 템플릿
+
+
+
+
+
 ## 발음 팁
 
 a, e, o 모음 두개가 이어지면 길게 끌어서 발음 한다.
