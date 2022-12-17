@@ -166,6 +166,20 @@
 - Well, I'm not quite sure, but.. 정확하게는 모르지만,
 - Well... 음...
 
+#### 혼자(alone) vs 함께(with others) 템플릿
+
+혼자의 장점
+
+- I can fully concentrate on my work, become productive, and have a better outcome.
+- I can make all the decisions by myself.
+
+함께의 장점
+
+- I can always share some ideas and opinions about ~~~
+- I like to have company. 옆에 누군가가 있는게 좋아요.
+
+
+
 ### 마지막 시간 있을때
 
 - personally, I'm very into that kind of stuff.
@@ -183,6 +197,13 @@ first,
 also,
 
 ## Q5
+
+When do you go to exhiibitions, and how much time do you spend at one when you go.
+
+- I go to exhibitions when there's is a science-related one in town. I like to take my time looking at the exhibits,
+  so I usually spend about two hours at an exhibition.
+
+
 
 How often do you go shopping for groceries, and where do you usually go?
 
@@ -224,11 +245,22 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+Would you ever go to the same exhibition twice?
+
+- Yes, I would go to the same exhibition twice. This is because sometimes I can see something new that I missed before.
+  also, Personally, I'm very into that kind of stuff.
+
 And what kind of things do you usually buy there?
 
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+What are some advantages of taking a guided tour at an exhibition?
+
+- There are some advantages of taking a guided tour over looking around an exhibition alone. First, the guide can make sure I won't miss any of the important exhibits. the guide can also give many information that I need. so I can get the information and expand my view more effectively and efficiently.
+
+- ... I prefer to go alone throughout the tour
 
 - Which factor do you consider the most when you go grocery shopping? (Price, Location, Selection of foods that are available)
   - When I go grocery shopping, I consider the price the most important factor. First, a low price lets me buy a large quantity without spending too much, so I can make more meals for my family. In addition, if I can save on groceries, I can spend more money on other important things! also, I have to consider finance all the time.
@@ -250,7 +282,7 @@ And what kind of things do you usually buy there?
   - 3) I suggest that you learn from people around you.
   - First, you can easily follow the steps, and they will teach you how to cook the meal thoroughly.
   - Also, you can have a good time with your family and friends while cooking together.
-  
+
 
 
 
@@ -276,6 +308,10 @@ store opens day and night
 
 ## Q8
 
+When and where will the conference be held?
+
+- The online marketing conference will be held from July 10 to July 11 at the Knigsgate Conference Center.
+
 you have the wrong information. The special event, a meet-and-greet, is planned for after The Blossom's show. do you want more details about it?
 
 - The picnic will be held on August 23rd, and the first event, Coctails and Catch-Up" will start at 11 a.m
@@ -285,6 +321,12 @@ When is my ..
 - You will take a flight to Toronto on October 30th at 9:00 A.M. and the flight number if 578.
 
 ## Q9
+
+Do I have to bring my own lunch?
+
+- Lunch is included in the fee. and lunch time is at 12:00 PM on July 10.
+
+- No, actually you don't. Lunch will be provided. The price is included in the conference fee.
 
 I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 
@@ -306,6 +348,27 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+
+
+I agree that young people should be well-informed about current event for a few reasons.
+
+first of all, It helps young people decide their position on a specific issue. so they can decide their position more effectively, and efficiently. 
+but, it's not really possible when I think about other options,
+
+also, I think this is what really matters now. society tells young people to be well informed people about current event. but most young people don't follow that. so it's getting more and more important I think.
+
+also, most people think that it is useful when they meet new people. because they can choose many topics to discuss with people.
+
+so these are my reasons.
+
+- 시사 문제와 관련되는 질문 유형들
+  - 정부가 비용이 들더라도 더 많은 친환경 대중교통 수단(eco-friendly public transportation)을 제공해야 한다는 것에 대해 동의하시나요?
+  - 지금보다 더 강력한 재활용 관련 법안(recycling bill)이 도입되어야 한다는 것에 대해 찬성하시나요?
+  - 학교에서 청소년들에게 더 건강한 음식 (healthier meals)를 제공하는 것은 어떤 이점이 있나요?
+    - 
+
+
 
 What are the advantages of studying alone compared to studying in a group?
 
