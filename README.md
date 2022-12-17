@@ -391,13 +391,52 @@ So, I think they are the most essential part of my life and career.
 
 If ~, I can get the information / that I need. also, They usually know things I don't know. so their opinions is very important to me.
 
+- ex) I can get the information that I need. They usually know things I don't know, so their opinion is very important to me.
+
 ### 경험 템플릿
 
 (I can have lots of experience / ~~ have lots of experience). And well, experience is very important, because people with experience can solve the problems better and help others better.
 
+- ex) If I work overtime, I can have lots of experience. Well, experience is very important. because people with experience can solve the problems better, help others better.
+
 ### 이해 템플릿
 
+(N) understand me, and know me very well. For example, my personality, strength and weakness.
+
+- ex) My family members understand me and know me very well, For example, my personality, strength, and weakness.
+
 ### PEOPLE 템플릿
+
+I can have a new experience and expand my view. Also, I can meet many people and improve my social skills and communication skills.
+
+- ex) (If I work at foreign countries), I can meet many people and improve my social skills and communication skills. It is the most essential part of my life and career.
+
+## 기타 템플릿
+
+- 추가로 암기하면 다양한 질문에 조금 더 구체적으로 답변이 가능합니다.
+
+### 동기 템플릿
+
+If (S  + V), people will get inspiration and motivation to follow that as well. so more people will (V).
+
+- ex) If (companies are protecting the environment), people will get inspiration and motivatiion to follow that as well. So more people will protect the environment.
+
+### 아동 템플릿
+
+(N) is very important. I think it has positive / negative  effects on children. they are not fully developed mentally, and physically. So, they need care and control from their parents and adults.
+
+N은 아동에게 매우 좋은 / 안 좋은 영향을 미칩니다. 아이들은 정서적으로 모두 성장하지 않아서, 보호와 조절이 필요합니다.
+
+- ex) Having a role model is very important. I think it has positive effects on children't behaviors. children are not fully developed both mentally and physically. So, they still need care and control of parents and adults.
+
+### 환경 템플릿
+
+(N) is very important for the environments. keeping the nature is crucial to everyone. it is also good for the people.
+
+- ex) preserving the environment is crucial to everyone. it is not only beneficial for the environment, but also for the people.
+- 환경문제는 출제빈도가 매우 낮으나 난이도는 상당이 높기 때문에 시험보기 전 어떻게 말할 지 아이디어라도 준비하는게 좋다.
+
+
 
 
 
