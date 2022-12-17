@@ -41,7 +41,6 @@
 ### Template
 
 - This picture was taken on(at) a 장소
-
 - What I notice first is 인물1, 행동 ing
 - 인물1 is wearing casual clothes
 - Next to 인물1, 인물2 is 행동 ing
@@ -58,8 +57,22 @@
 - 마무리
   - and it gives me positive feelings
   - generally, it seems like some friiends are having fun shopping  together.
+- 휴게 장소
+  - this picture was taken at a break room (at an office kitchen)
+  - what i notice first is two people talking to each other.
+  - a man wearing a black tie and a jacket is standing and holding a cup.
+  - next to him, a woman with blond hair is holding some documents.
+  - in the background, there are coffee machine and some food (displayed, placed, arranged) on a countertop.
+  - overall, it seems like two coworkers are taking a break from work.
+  
 
-
+- (실내 / 실외가 어딘지 묘사가 어려우면... indoors / outdoors)
+  - This picture was taken indoors
+  - what i notice first is woman listening to music. she is using tablet pc and sitting down on the long bench
+    - she has her legs crossed.
+  - next to her, there is a luggage cert with two bags inside
+  - behind her, there is a wall with some electric outlets (충전기, consent X)
+  - Generally, it seems she is passing her time watching something with her computer.
 
 - **공사 현장**
   - This picture was taken at a construction site.
@@ -81,22 +94,22 @@
   - This photo was taken at a camping site.
   - What I notice first is a woman with short curly hair taking a picture. She is wearing  checkerd shirt.
   - In front of her, a group of people are smiling at a camera. Behind them, I can see tents on the ground.
-  - there are some  trees with plenty of branches.
+  - there are some trees with plenty of branches.
   - the weather is sunny and very good for outdoor activities.
   - generally, it appears that the campers are having a good time together.
   - and it gives me positive feeliings.
 - 식료품 점
   - This  picture was taken at a grocery store.
-  - What I notice first is a man holding a fridge  handle. he has dark hair and a beard, and  is wearing a blue jacket.
-  - in front of hime, there  is a cart filled with some vegetables and fruit. In the distance(in the background), two people are also browsing the refrigerated foods section.
-  - overall, this picture looks calm and peacefull. and it gives me positive feelings.
+  - What I notice first is a man holding a fridge handle. he has dark hair and a beard, and is wearing a blue jacket.
+  - in front of him, there is a cart filled with some vegetables and fruit. In the distance(in the background), two people are also browsing the refrigerated foods section.
+  - overall, this picture looks calm and peaceful. and it gives me positive feelings.
   - (Overall, it seems like a slow day at the store.)
 
 - 집앞 야외
   - This picture was taken outdoors.
-  - What I  notice first is a  woman with short, blond hair. She is standing in the back of the truck and handling a box over to a man in front of her.
+  - What I notice first is a woman with short, blond hair. She is standing in the back of the truck and handing a box over to a man in front of her.
   - The man is reaching for the box (the man is taking the box.)
-  - In the background, I can see another man in a red cap and a T-shirt holding a box  in front of a house.
+  - In the background, I can see another man in a red cap and a T-shirt holding a box in front of a house.
   - Overall, It appears that some peoples are moving some boxes in front of a house.
   - + Overall The weather is sunny and very good for outdoor activities.
   - this picture looks calm and  peaceful, and it gives me positive feelings.
@@ -121,10 +134,10 @@
   - (large, construction) vehicle : 특수차량, 명칭을 모르는 차량도 vehicle로 설명 할 수 있다!
   - dirt mountain (산더미의 흙)
   - checkerd shirt 체크무늬 셔츠
-  - smiling  at(for) the camera.
+  - smiling at(for) the camera.
     - smiling to 는 안돼요.
 
-  - Pannant banners, a string of colorful flags 삼각 깃발
+  - Pennant banners, a string of colorful flags 삼각 깃발
 
 
 # Q 5 ~7
