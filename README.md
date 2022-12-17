@@ -31,6 +31,14 @@
   - 구 앞이나 절 앞에서 끊어주세요.
     - We apologize for any inconvenience this may cause.
 
+- 의문문 억양 살려 읽기!
+  - be동사, 조동사로 시작하는 의문문은 끝을 올리기
+    - Would everyone please take their seats?
+  
+    - is there everyone?
+  
+  - 의문사로 시작하는 의문문은 끝을 내리기
+  
 - 어휘
   - rainforests 열대우림.
 
@@ -38,7 +46,7 @@
 
 ## 사진 묘사하기
 
-### Template
+### Q 3~4 Template
 
 - This picture was taken on(at) a 장소
 - What I notice first is 인물1, 행동 ing
@@ -57,6 +65,27 @@
 - 마무리
   - and it gives me positive feelings
   - generally, it seems like some friiends are having fun shopping  together.
+
+
+
+
+
+### 문제 풀기
+
+- 길가
+  - this picture was taken on a street
+  - What I notice first is some people walking by on the street, and most of them are wearing summer clothes.
+  - in the middle, there are many kind of items placed on the ground.
+  - in the background, there are some tall trees with plenty of branches.
+  - overall, the weather is sunny, and very good for outdoor activities.
+    - Generally, it seems like a outdoor market in a small town.
+- 식당 (소수의 사람이 중심인 사진)
+  - This picture was taken at a restaurant.
+  - what i notice first is a man with short blond hair handnig a check over to a waiter.
+  - on the left side of him, I see two women, and they are both smiling
+  - there are some beverages and foods placed on the table.
+  - Overall, it seems like people are having a good time.
+
 - 휴게 장소
   - this picture was taken at a break room (at an office kitchen)
   - what i notice first is two people talking to each other.
@@ -64,7 +93,7 @@
   - next to him, a woman with blond hair is holding some documents.
   - in the background, there are coffee machine and some food (displayed, placed, arranged) on a countertop.
   - overall, it seems like two coworkers are taking a break from work.
-  
+
 
 - (실내 / 실외가 어딘지 묘사가 어려우면... indoors / outdoors)
   - This picture was taken indoors
