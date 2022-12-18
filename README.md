@@ -87,8 +87,8 @@
   - it seems that the people are having a meeting at work
 - 실내 청소하는 남자 (소수의 사람이 중심인 사진)
   - This picture was taken indoors(at a house)
-  - What i notice first is a man with a white outfit.
-  - behind hime, a number of containers(통 들) are filled with paint and painting tools.
+  - What i notice first is a man with a white outfit and painting the wall.
+  - behind him, a number of containers(통 들) are filled with paint and painting tools.
     - cleaning tools, cooking tools, painting tools.
   - left side of the picture, there are two ladders beside a big window
   - it seems that the one man is painting room.(it seems like the room is benig painted)
@@ -248,6 +248,14 @@ also,
 
 ## Q5
 
+What was the last piece of furniture you bought, and when did you buy it? (furniture 는 불가산 명사로 s를 붙히지 않습니다.)
+
+- The last piece of furniture i bought was my green leather sofa. i bought it last month. it was a little expensive, but it's very nice
+  - 색깔과 재질을 함께 표현할 수 있다.
+    - green leather sofa
+    - sand-colored wooden table
+    - oak bookcase
+
 What is the anniverary you have celebrated most recently, and how did you celebrate it?
 
 - The anniversary I have celebrated most recently is my younger brother's birthday. He turned 20, so I planned a surprise party and invited all of his friends.
@@ -297,6 +305,11 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+How do you get information about furniture?
+
+- I get information about furniture by looking on furniture dealers' Web sites. it's easy to compare products and prices that way.
+  - I can save my, money and effort searching for the information
+
 Do you prefer to celebrate anniversaries at home or somewhere else?
 
 - I prefer to celebrate anniversaries at home. This is because I can enjoy the house party without worrying about other people. Also, I can decide how to decorate my home and what to serve to guests.
@@ -316,6 +329,12 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+Do you prefer to buy furniture online or from an offline store? Why?
+
+- (online 장점)I prefer to but furniture online. First, since online shopping malls have more information about furniture than any other places, I don't have to look further to search for the information that I want. second, I can save time, money, effort purchasing furniture. plus, I don't have to carry heavy furniture by myself, since they provide delivery services, so, I think buying furniture online is a better way.
+
+- (offline 장점)I prefer to buy my furniture from offline stores. first, I want to see and feel the furniture before I buy it. second, offline stores usually deliver and assemble the furniture for me, which is very convenient. These are the reasons why I usually buy furniture from an offline store.
 
 It's my mother's birthday soon. Do you suggest that I give her monty as a gift?
 
@@ -375,6 +394,10 @@ store opens day and night
 
 ## Q8
 
+What time is the first interview and what is the name of the applicant?
+
+- The first interview is at 9:30 A.M. the applicant's name is ~~ and he is applying for the position of junior editor.
+
 Could you tell me what time the center open and closes?
 
 - The center opens at 9:00a.m. and closes at 9:00p.m. It is open from Monday to Saturday
@@ -393,6 +416,10 @@ When is my ..
 
 ## Q9
 
+I header that there are two applicants who have more than 10 years of experience in their field.
+
+- I'm sorry, but you have the wrong information. only Nicole Baxter has more than 10 years. She has 11 years and 7 months of experience. She is applying for the web content executive position at 3:30 P.M.
+
 Do I have to bring my own lunch?
 
 - Lunch is included in the fee. and lunch time is at 12:00 PM on July 10.
@@ -404,6 +431,10 @@ I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 - I'm sorry, but that information is incorrect. The orchestra concert is scheduled for Tuesday, November 1st. it will start at 7PM.
 
 ## Q10
+
+We urgently need a new marketing manager. Can you giive me all the details about the applicants for the marketing manager position?
+
+- There are two applicants for the marketing manager position. At 1:30 P.M., Mason Woodcock is interviewing for the position. He has 6 years of experience. And at 4:30 P.M. Julie Hartman is also interviewing for that position. She has 4 years and 9 months of experience.
 
 There are two bands available for booking in October. The first is Team Cloud. They will be playing on October 8 and 9.
 The second is The Eleventh Star. They will perform on October 15 and 16. You can book tickets for either of them. Do you want more details about it?
@@ -419,6 +450,25 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+
+
+Q Do you agree or disagree with the following statement?
+For new employees, it is more important to get acquainted with colleagues and supervisors than to do anything else.
+
+- I agree that it is more important for new employees to get acquainted with colleagues and supervisors than to do anything else.
+- as a new employees, if i am get familiar with them, I can get the information that I need more easily, they usually know things I don't know. so their opinion is very important for me.
+- however, it is not really possible when i think about other options.
+- also, i think this is what really matters now. society tells new employees to get familiar with their supervisor. but most employees don't follow that. so it's getting more and more important I think.
+- and not just me, ~~ 
+- so these are the reasons.
+
+
+
+#### 직장 상사와 친해지면 장점
+
+- employees can work at a comfortable work atmosphere. in this kind of environment, they experience a lot less stress because they have a good relationship with their coworkers. 편안한 환경에서 일해서 스트레스를 낮출 수 있음
+- if the new employees get along with their coworkers, then they can increase productivity. the new employees can learn more when they have a good relationship with others. because they can ask questions to their colleagues easily. 오히려 생산성을 높일 수 있음
 
 
 
@@ -482,6 +532,26 @@ Give reasons and specific examples to support your opinion.
 
 
 ## Template
+
+
+
+## Q5~7 템플릿
+
+### 직접 물건 구매의 장점 (인터넷 쇼핑의 단점)
+
+- I can physically inspect or try on the items before purchasing them. 구매 전에 직접 찾아보거나 입어볼 수 있어요.
+
+- I don't have to wait for the delivery, and I don't have to pay extra delivery fees. 배송을 기다리지 않아도 됩니다. 배송료를 낼 필요가 없습니다.
+
+- it is much easier to get money refunded or exchanged at the local store. 환불이나 교환이 훨씬 쉽습니다.
+
+### 온라인의 장점
+
+- I can save my time, money and effort when ~ (or ~~ing ~~)
+
+- I can get the many information that I need from online more efficiently and effectively in my home
+
+
 
 ## 서론 템플릿
 
