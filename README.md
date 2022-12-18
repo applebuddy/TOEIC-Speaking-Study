@@ -227,12 +227,14 @@ also,
 
 ## Q5
 
+What is the anniverary you have celebrated most recently, and how did you celebrate it?
+
+- The anniversary I have celebrated most recently is my younger brother's birthday. He turned 20, so I planned a surprise party and invited all of his friends.
+
 When do you go to exhiibitions, and how much time do you spend at one when you go.
 
 - I go to exhibitions when there's is a science-related one in town. I like to take my time looking at the exhibits,
   so I usually spend about two hours at an exhibition.
-
-
 
 How often do you go shopping for groceries, and where do you usually go?
 
@@ -274,6 +276,15 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+Do you prefer to celebrate anniversaries at home or somewhere else?
+
+- I prefer to celebrate anniversaries at home. This is because I can enjoy the house party without worrying about other people. Also, I can decide how to decorate my home and what to serve to guests.
+- I prefer to celebrate anniversaries in special locatioins rather than at home. This is because somewhere like a fancy restaurant can make the celebratioin more memorable.
+  - personally, I  am very into that kind of stuff.
+  - I can relieve the stress of my daily routine.
+  - I can have a new experience and expand my view
+  - I can meet people from diverse cultural backgrounds
+
 Would you ever go to the same exhibition twice?
 
 - Yes, I would go to the same exhibition twice. This is because sometimes I can see something new that I missed before.
@@ -284,6 +295,12 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+It's my mother's birthday soon. Do you suggest that I give her monty as a gift?
+
+- Yes, I suggest giving your mother money for her birthday. First, if you give her money, she can buy exactly what she wants with it. So, it'll be money well spent. Secondly, you can even go shopping with her. that way, you can have a shared experience too. these are the reasons why I think it's a good idea to give money to your mom for her birthday. also, I'm very into that kind of stuff.
+
+
 
 What are some advantages of taking a guided tour at an exhibition?
 
@@ -337,6 +354,10 @@ store opens day and night
 
 ## Q8
 
+Could you tell me what time the center open and closes?
+
+- The center opens at 9:00a.m. and closes at 9:00p.m. It is open from Monday to Saturday
+
 When and where will the conference be held?
 
 - The online marketing conference will be held from July 10 to July 11 at the Knigsgate Conference Center.
@@ -377,6 +398,24 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+
+
+**Q(hard) What are the disadvantages of motivating elementary school students by giving them monetary rewards?**
+
+* monetary rewards : 금전적 보상
+
+이유 : 
+
+- 동기부여가 무엇인지에 대한 잘못된 개념을 줌 -> 학생들은 그들의 윤리에 근거하여 옳은 일을 하는 방법을 배워야함
+  - gives them the wrong idea about what motivation is
+  - -> students need to learn how to do the right thing based on their morals.
+- 금전적 보상이 모든 문제의 해결책이라고 생각할 수 있음 -> 다른 사람들에게 돈을 주면서 문제를 해결하려고 할 수 있다.
+  - may think monetary rewards are the best solution to all problems.
+  - -> may try to solve all problems by giving other people money
+- I think that there are some disadvantages of motivating elementary school students by giving them money as a reward. 
+  First of all, giving money to young students to motivate them gives them the wrong idea about what motivation is. To be specific, students need to learn how to do the right thing based on their morals, (not because they will get a reward for doing it.)
+  Secondly, young students may think monetary rewards are the best solution to all problems. For example, when they grow up, they may try to solve problems by giving other people money. Therefore, I think these are some disadvantages of giving monetary  rewards to elementary students to motivate them.
 
 
 
