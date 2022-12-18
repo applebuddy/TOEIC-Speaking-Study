@@ -64,13 +64,34 @@
   - Overall, the picture looks lively and energetic.
 - 마무리
   - and it gives me positive feelings
-  - generally, it seems like some friiends are having fun shopping  together.
+  - generally, it seems like some friends are having fun shopping together.
 
-
+- 외형 설명하기 (has 와 사용)
+  - blond hair (금발 머리)
+  - long, curly hair (긴 곱슬 머리)
+  - gray hair (회색 머리)
+  - a ponytail (말머리)
+  - a hat (모자)
+  - a beard (턱수염)
 
 
 
 ### 문제 풀기
+
+- 사무실 (소수의 사람이 중심인 사진)
+  - This picture was taken in a meeting room (indoors)
+  - what I notice first is three people sitting at a table.
+    - they all have a folder open in front of them.
+  - two women(위민) has long brown hair and one of them is drinking water.
+  - in the background, I can see a small harbor through a big window.
+  - it seems that the people are having a meeting at work
+- 실내 청소하는 남자 (소수의 사람이 중심인 사진)
+  - This picture was taken indoors(at a house)
+  - What i notice first is a man with a white outfit.
+  - behind hime, a number of containers(통 들) are filled with paint and painting tools.
+    - cleaning tools, cooking tools, painting tools.
+  - left side of the picture, there are two ladders beside a big window
+  - it seems that the one man is painting room.(it seems like the room is benig painted)
 
 - 길가
   - this picture was taken on a street
