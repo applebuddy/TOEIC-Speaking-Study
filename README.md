@@ -209,6 +209,12 @@
 
 - 제목은 바로 직독 직해가 되어야 합니다.
 
+### 낮은 가격을 선택하는 이유
+
+- I don't want to spend lots of money on ~~~, ~에 많은 돈을 쓰고 싶지는 않아요.
+- If I can save on ~~, I can spend more money on other important things!, ~애서 돈을 전약한다면, 다른 중요한 곳에 더 많은 돈을 쓸 수 있어요.
+- I have to consider finance all the time., 저는 항상 재정을 고려해야 해요.
+
 ### 특정 장소 특징을 설명할때
 
 - **FEEL**
@@ -318,6 +324,10 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+If a new fitness center opened in your area, would you work out more often? Why or why not?
+
+- Yes, I'd work out more often if a new fitness center opened in my area close to my house. That's because having a gym close by would make it easier to find the time to exercise.
+
 How do you get information about furniture?
 
 - I get information about furniture by looking on furniture dealers' Web sites. it's easy to compare products and prices that way.
@@ -342,6 +352,13 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+Which of the following is the most important to you when choosing a gym to join?
+
+- Competent trainers, Monthly fees, Facilities
+
+- When I choose a gym to join, facilities are the most important to me. First, there should be enough machines because I don't want to wait long to use a machine. 
+- the monthly fees are the most important to me. First, I don't want to spend lots of money on the monthly fees. If I can save on the fee, I can spend more money on other important things. such as healthy food. Also, I have to consider finance all the time. These are the reasons why I think a gym's monthly fees matter the most.
 
 Do you prefer to buy furniture online or from an offline store? Why?
 
@@ -407,6 +424,10 @@ store opens day and night
 
 ## Q8
 
+What time are we arriving in Paris and what time do we check in a t the hotel?
+
+- We will be arriving at 9:00 a.m. in Paris by Air France 383. and We will check in at the Grand Hotel at 11:00 a.m.
+
 What time is the first interview and what is the name of the applicant?
 
 - The first interview is at 9:30 A.M. the applicant's name is ~~ and he is applying for the position of junior editor.
@@ -429,6 +450,10 @@ When is my ..
 
 ## Q9
 
+I have to do some work during my stay. Will I be able to send e-mails from my room?
+
+- Yes. You will be able to send e-amils. The hotel has Wi-Fi in all the guest rooms.
+
 I header that there are two applicants who have more than 10 years of experience in their field.
 
 - I'm sorry, but you have the wrong information. only Nicole Baxter has more than 10 years. She has 11 years and 7 months of experience. She is applying for the web content executive position at 3:30 P.M.
@@ -444,6 +469,10 @@ I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 - I'm sorry, but that information is incorrect. The orchestra concert is scheduled for Tuesday, November 1st. it will start at 7PM.
 
 ## Q10
+
+I'm interested in history and art, and i"d love to visit some museums. Are we planning to visit any?
+
+- We will go to the Louvre Museum at 1:00 p.m. on the first day. On the second day, we will go to the Rodin Museum at 10:00 a.m,
 
 We urgently need a new marketing manager. Can you giive me all the details about the applicants for the marketing manager position?
 
@@ -464,7 +493,15 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 ## Q11
 
+과중한 업무가 힘들게 할까요? 새로운 상사가 힘들게 할까요?
 
+- I think getting a new boss is more challenging than getting a heavier workload for a few reasons.
+  it takes time to build a relationship with new boss. so I can't get the information that I need easier from new boss. they usuall know things i don't know but I can't ask somethings before getting along with him.
+  also, I think, this is what really matters now. society tells company not to change boss quickly. but most company don't follow that. so it is getting more and more important I think to imporve the empoyee's productivities.
+  Any Not just me, but most people think that, to work well, changing boss frequently is not the solution,
+  so, these are my reasons.
+
+- I think getting a heavier workload is more challenging than getting a new boss for a few reasons. First of all, If my workload is heavy, I might have to stay at work longer. To be specific, I would have trouble staying focused, and I couldn't do them fast enough to finish them on time. This means that I would have less time to spend with my family or friends. Secondly, a heavier workload would stress me out more. For example, when I have more work to do, I become responsible for more things. As a result, I need to worry about many things at once. and that makes me tried and anxious. Therefore,....
 
 Q Do you agree or disagree with the following statement?
 For new employees, it is more important to get acquainted with colleagues and supervisors than to do anything else.
