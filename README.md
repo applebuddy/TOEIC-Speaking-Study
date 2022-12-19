@@ -15,6 +15,7 @@
   - increase 명 : /인크리스, 동 : \인/크리스
   - We'll 윌
   - modern 마더얼언
+  - women's attire (''위민스'' 어타이어)
   
 - 강세
   - Why ~~~~ ? 일때는 마지막에 내리는게 자연스럽다. 
@@ -24,7 +25,7 @@
     - This weekend, we are hosting a citywide dance competition.
   - 접속사, 혹은 관계사 앞에서 끊어줍니다.
     - we apologize for the delay and thank you for your understanding.
-  - 주어가 5음절 이상일 때 주어 뒤에서 끊어줍니다.
+  - 주어가 5음절 이상일 때 주어 뒤에서 끊어줍니다. (주어가 길어지면 끊어 읽는것도 생각해본다.)
     - trains for all subway lines will run between nine A.M. to four P.M. only.
   - A, B, and/or C 구조에서 정확하게 끊어주세요.
     - we will tour the rainforest, woodland, and wetland areas.
@@ -77,6 +78,18 @@
 
 
 ### 문제 풀기
+
+- (L9-3) 거리, 배경이나 사물이 중심인 사진
+  - This picture was taken at a plaza in am old town (at a street, outdoors)
+  - what i notice first is building on the right side of the picture in front of the building, wooden tables and chairs can be seen.
+  - in the background of the picture, there are many buildings with lots of windows. also, there's a big bell tower.
+  - there are some pedestrians walking on the street
+- (L9-4) 실내 액자 걸이, 소수의 사람이 중심인 사진
+  - This picture was taken indoors
+  - What i notice first is a man wearing red checkered shirt and hanging a picture on the wall.
+  - behind him, there's a woman in a blue checkered shirt helping the man
+  - in the foreground of the picture, I can see white rug and green sofas(couches)
+  - Overall, it seems like they are decorating the house.
 
 - 사무실 (소수의 사람이 중심인 사진)
   - This picture was taken in a meeting room (indoors)
