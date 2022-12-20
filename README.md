@@ -236,11 +236,103 @@
 
 # Q 5 ~7
 
-
-
 ### 하나의 주제에 대해 3개 질문에 답하기
 
 - 제목은 바로 직독 직해가 되어야 합니다.
+- 준비 시간은 각 3초, 마음의 준비를 할 시간 정도에 불과합니다.
+- 평가 기준 : 질문에 대하여 영어로 답변할 수 있는가?
+- 출제 경향 : 일상생활 25%, 취미/여가 39%, 제품(상점)/서비스 36%
+
+
+
+### 5~7 번 Tip
+
+- Description 끝에서 미리 설문 주제 키워드가 주어짐. 이때 미리 짐작을 해볼 수 있음.
+
+##### 의문사 + 질문 표현 의 답 -> 질문 표현 + 의문사별 응답
+
+- 질문 표현의 you는 I로, your는 my로 바꾸어 말합니다.
+- Where do you usually buy your clothes?
+  - I usually buy my clothes at a store near my home
+- How often do you exercise, and who do you exercise with?
+  - I exercise twice a week, and I exercise with my friends. (because I'm very into that kind of stuff.)
+- Where do you duy your groceries?
+  - I usually buy my groceries 
+    - at a store near my home / on the internet. / at a shopping mall.
+- How long have you lived in your area?
+  - I have lived in my area 
+    - for about 6 months. / since 2010. / since I was young
+- When was the last time you went to an amusement park?
+  - The last time I went to an amusement park was
+    - last week. / two days ago / last summer / on my brother's birthday.
+- What do you usually use the internet for?
+  - I usually use the internet for listening to music and using youtube app to relieve my stress of my daily routine.
+- What kind of TV programs do you enjoy watchnig?
+  - I enjoy watching
+    - reality shows / korean dramas / talk shows. 
+
+
+
+### 짦 템 (짦은 템플릿)
+
+- 답변 이후 추가로 말할 수 있는 내용 들
+- I can have so much fun + I can relieve my stress of my daily routine.
+
+### 7번 핵심 표현
+
+##### 취미 / 여가 Template
+
+- 새로운 도시로 처음 여행을 간다면 어디를 가장 방문하고 싶나요?, 역사 관광지 / 쇼핑 지역 / 국립공원
+  - if i were to visit a new city for the first time, i would visit historic attractions.
+  - it gives me a chance to learn about the culture and history 문화의 역사에 대해 배울 수 있음
+  - what I learn first-hand is usually more memorable. 직접 경험하는 것이 더 기억에 남아요.
+- 대도시와 교외 지역 중 어디로 주로 여행을 가나요?
+  - I usually travel to large cities
+  - **they generally have better public transportation**
+  - **they often have more things to enjoy like a wide range of food, shops, and activities.**
+- 취미 활동을 단체로 하는 것의 장점은 무엇인가요?
+  - **it provides opportunities to meet new people and make new friends.**
+  - **I can feel a sense of accomplishment by doing something together.**
+- 영화를 고를 때 가장 많이 고려하는 것은 무엇인가요?
+  - It tells me what to expect from the movie 영화에 대해 미리 알 수 있음
+  - most movies with fascinating trailers turned out to be interesting. 예고편이 매력적인 대부분의 영화는 재미있었음
+- 수업을 고를 때 가장 중요하게 고려하는 것은 무엇인가요? 선생님의 경력 / 집으로 부터의 거리 / 수업(반) 크기
+  - I don't want to waste too much time on traveling.
+  - I can go there more often if it is within walking distance.
+- 음악을 들을 때 무엇을 사용하나요?
+  - I can easily listen to music anytime and anywhere that i want. 언제 어디서나 음악을 들을 수 있음.
+  - it can even analyze my playlist and recommend music i would like. 내가 좋아할 법한 음악을 추천함.
+
+##### 일상 생활 Template
+
+- 친구와 소통할 때 직접 만나서 대화하는 것과 문자하는 것 중 무엇을 더 선호하나요?
+  - it allows me to communicate more often. 더 자주 연락할 수 있음
+  - I can easily keep in touch with friends living abroad. 해외에 사는 친구와 쉽게 연락할 수 있음.
+- 다음 중 어떤 것을 친구에게 선물로 줄 건가요? 상품권, 악세사리, 전자기기
+  - This allows them to buy whatever they want. 그들이 원하는 것을 살 수 있음
+  - I wouldn't have to spend much time considering what I should buy. 무엇을 살지 고민하는 시간을 줄여 줌.
+- 친구의 추천과 인터넷 후기 중 주로 어디서 필요한 정보를 얻나요?
+  - They are more trustworthy because they are based on actual experiences. 실제 경험에 기반하기에 더 믿을 수 있어요.
+  - **People who know me well tend to give the suggestions best suited to me.** 나에게 가장 적합한 제안을 해줄 수 있음.
+- 주로 무엇을 하기 위해 인터넷을 사용하나요?
+  - It's simple and easy (to use) because I can do it with just a few clicks. 간단하고 쉬움.
+  - it's convenient since I don't have to visit many stores to compare prices. 가격 비교를 위해 많은 상점을 방문할 필요가 없어서 편리해요.
+- 당신이 거주하는 지역에 무엇이 더 필요하다고 생각하나요?
+  - it provides a great place for people to get outside 활동할 수 있는 좋은 장소를 제공함
+  - People can use the park to walk their dogs, ride their bikes, or enjoy a picnic with friends. 공원에서 다양한 활동을 할 수 있음.
+- 당신이 거주하는 지역이 쇼핑하기에 편리하다고 생각하나요?
+  - There are a variety of shops in my neighborhood. 동네에 다양한 상점이 있음
+  - There's a big department store and a grocery store within walking distance. 가까운 거리에 대형 백화점과 실품점이 있음.
+- 물건을 살 때 가장 중요하게 생각하는 것은 무엇인가요? 가격 / 브랜드 / 디자인
+  - Well-known brands are more likely to offer high-quality goods. 고품질의 상품을 제공함
+  - They often have better customer service 더 좋은 고객 서비스를 제공함
+- 서비스를 이용할 때, 광고 없는 서비스를 위해 추가비용을 지불할 의향이 있나요?
+  - I don't want to spend too much money
+  - I can sometimes get useful information from advertisements.
+- 가게를 방문할 때 가장 많이 고려하는 것은 무엇인가요? 다양한 제품 / 개장 시간 / 위치
+  - There are more options to choose from. so it's easier to find products I like. 선택의 폭이 넓음
+  - It's time-saving because I don't need to visit many stores to get what I want. 시간을 절약할 수 있음.
+- [유형 3\] 만능 전략 & 지문 종류별 공략 & Check-up (p.56~67), ~48:06 까지 들음
 
 ### 낮은 가격을 선택하는 이유
 
