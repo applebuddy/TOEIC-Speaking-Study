@@ -236,6 +236,8 @@
 
 # Q 5 ~7
 
+
+
 ### 하나의 주제에 대해 3개 질문에 답하기
 
 - 제목은 바로 직독 직해가 되어야 합니다.
@@ -298,6 +300,10 @@ also,
 
 ## Q5
 
+How often do you use a navigation device? How long have you used it?
+
+- I use the navigation application about once or twice a week. I've used it since I started working. it gives me the me the most accurate directions whenever I am(I can use it whenever and wherever I want)
+
 What was the last piece of furniture you bought, and when did you buy it? (furniture 는 불가산 명사로 s를 붙히지 않습니다.)
 
 - The last piece of furniture i bought was my green leather sofa. i bought it last month. it was a little expensive, but it's very nice
@@ -355,6 +361,10 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+And where was the last place you went using a navigation device?
+
+- The last place I went using a navigation device was the seoul subway station. at that time I needed to find a restaurant to meet my friends.
+
 If a new fitness center opened in your area, would you work out more often? Why or why not?
 
 - Yes, I'd work out more often if a new fitness center opened in my area close to my house. That's because having a gym close by would make it easier to find the time to exercise.
@@ -383,6 +393,10 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+Do you think more people will use navigation devices in the future than they do now? Why or why not?
+
+- I think more people will use navigation devices in the future. This is because cities and roads will become larger and more complex. Navigation devices will be necessary to get around. Also, navigation devices are getting more accurate. so they will be easier to use in the future. (발전되기해 편해지는 이유로 참고하면 좋음)
 
 Which of the following is the most important to you when choosing a gym to join?
 
@@ -455,6 +469,14 @@ store opens day and night
 
 ## Q8
 
+I heard that there is an awards and recognitions session scheduled. is that correct?
+
+- unforntunately, you have a wrong information. The Awards and Recognitions Session scheduled for Outstanding Emplyee of the Month has been cancelled. do you want more details about it?
+
+Who will give the presentation, and what will it be about?
+
+- The presentation will be given by Alanis Campbell. it will be a case study on successful sales strategies at 5:00P.M.
+
 What time are we arriving in Paris and what time do we check in a t the hotel?
 
 - We will be arriving at 9:00 a.m. in Paris by Air France 383. and We will check in at the Grand Hotel at 11:00 a.m.
@@ -501,6 +523,10 @@ I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 
 ## Q10
 
+I work with Tommy Owen. Can you tell me what he is in charge of during the meeting?
+
+- There are two events you are looking for. the first agenda is Marketing Project Update at 3:20 P.M. and he wiil talk about Purpose and Goals, Specific Strategies, and Customer Responses. Second agenda is Sales Review at 4:30 P.M. by Tommy Owen. do you want more details about it?
+
 I'm interested in history and art, and i"d love to visit some museums. Are we planning to visit any?
 
 - We will go to the Louvre Museum at 1:00 p.m. on the first day. On the second day, we will go to the Rodin Museum at 10:00 a.m,
@@ -523,6 +549,16 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+What are some advantages of living in the same town for a long time?
+
+- 이웃과 가까운 친구가 됨 -> 이웃과의 긴밀한 유대를 발전 시켜 가족처럼 됨
+  - people who live in the same town for a long time become close friend with their neighbors. then people can live their life more effectively, and efficiently. 
+  - and they can increase their life satisfaction.
+- 주변을 더 잘 앎
+- I think that there are a couple of advantages to living in the same town for a long time. First of all, people who live in the same town for a long time become close friends with their neighbors. To be specific, they usually develop close bonds with them and become like a family. Everyone helps each other when needed. Secondly, people who live in the same place for a long time know the area better. for instance(for example), they know where the best restaurants are and what stores have the best deals. This can help to save time and money. Therefore, ....
+
+
 
 과중한 업무가 힘들게 할까요? 새로운 상사가 힘들게 할까요?
 
