@@ -16,6 +16,11 @@
   - We'll 윌
   - modern 마더얼언
   - women's attire (''위민스'' 어타이어)
+  - comfortable 컨ㅍ타블 (or 발음을 빼도 됨)
+  - reserv/a-tion
+  - aisle. (아일 s가 빠짐!)
+    - sword 솔드, fasten 빼쓴
+  - 3음절 이상의 단어들은 강세가 제각각인 경우가 많습니다.
   
 - 강세
   - Why ~~~~ ? 일때는 마지막에 내리는게 자연스럽다. 
@@ -78,6 +83,21 @@
 
 
 ### 문제 풀기
+
+- (L10-3) 차에서 봉투를 꺼내는 몇몇 사람들 (소수의 사람이 중심인 사진)
+  - This picture was taken in(at) a parking lot
+  - What I notice first is three people loading some plastic bags into the back of the vehicle.
+  - one of them is holding a plastic bag and other man is standing behind a shopping cart.
+  - next to him, there's a women wearing sunglasses.
+  - in the background of the picture, the parking lot seems to be empty.
+  - Generally, it seems like some people have just finished grocery shopping.
+- (L10-4) 카페에서 뭔가 하는 사람들 사진 (여러사람이 중심인 사진)
+  - This picture was taken at a cafe(coffee shop)
+  - What i notice first is a man with short curly hair and headphones on.
+    - He is listening to something and using laptop computer.
+    - on the table, there are a cup of coffee and a piece of cake.
+  - behind him, there's a waitress serving coffee to another customer, who is focused on something.
+  - generally, it seems like a typical scene at a coffee shop.
 
 - (L9-3) 거리, 배경이나 사물이 중심인 사진
   - This picture was taken at a plaza in am old town (at a street, outdoors)
@@ -201,6 +221,17 @@
     - smiling to 는 안돼요.
 
   - Pennant banners, a string of colorful flags 삼각 깃발
+
+
+
+### 사진 위치 묘사 팁
+
+- 좌 / 우상단 : At the top left / At the top right
+- 좌 / 우하단 : At the bottom left / At the bottom right
+- 좌 / 우 : On the left / right (side of the picture)
+- 배경 : in the background
+- 사진 앞 부분 : in the foreground
+
 
 
 # Q 5 ~7
