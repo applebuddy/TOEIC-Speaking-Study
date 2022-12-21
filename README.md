@@ -84,6 +84,18 @@
 
 ### 문제 풀기
 
+- (L11-3) 나무에 아이와 엄마 (소수의 사람이 중심인 사진)
+  - This picture was taken outdoors
+  - what i notice first is a woman wearing heavy clothes(hats and gloves). she is walking with her two son. one of them is holding mother's hand.
+  - in the background there're some trees with plenty of branches and fallen leaves covering the ground. also, i can see playground
+  - generally it seems like a chily winter day.
+- (L11-4) 클래스룸에서 공부하는 애들과 선생님 (여러 사람이 중심인 사진)
+  - this picture was taken at a classroom.
+  - what i notice first is a man who looks like a teach pointing at a student. he is wearing casual clothes in front of a white board.
+  - in front of him, there is a woman rasing her hand.
+  - and there are many students looking at teacher. and there are laptops and tablet computers.
+  - overall, it seems like the people are paying attention.
+
 - (L10-3) 차에서 봉투를 꺼내는 몇몇 사람들 (소수의 사람이 중심인 사진)
   - This picture was taken in(at) a parking lot
   - What I notice first is three people loading some plastic bags into the back of the vehicle.
