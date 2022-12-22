@@ -404,6 +404,11 @@ also,
 
 ## Q5
 
+When was the last time you traveled on a train, and where did you go?
+
+- The last time I traveled on a train was two weeks ago. I went to Busan for a weekend trip. (I went to Busan to meet my friend)
+  I could relieve the stress of my daily routine.
+
 How often do you use a navigation device? How long have you used it?
 
 - I use the navigation application about once or twice a week. I've used it since I started working. it gives me the me the most accurate directions whenever I am(I can use it whenever and wherever I want)
@@ -465,6 +470,11 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+When you buy train tickets, do you prefer to buy them on the internet or at the station?
+
+- When I buy train tickets,. I prefer to buy them online. then, I can save my time, effort. and I can buy train tickets anytime and anywhere that I want. also,
+- Usually, you can easily access the train station anywhere in the city. 
+
 And where was the last place you went using a navigation device?
 
 - The last place I went using a navigation device was the seoul subway station. at that time I needed to find a restaurant to meet my friends.
@@ -497,6 +507,12 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+I want to go shomewhere for vacation on a train, Can you recommend a destination for me?
+
+- Sure, I can recommend a destination for you trip. I think you should go to a 전주한옥마을. you can enjoy many kinds of thing, 
+  there are good places to take picture or eat delicious korean foods.
+  and memorable guide tour events for korean history.
 
 Do you think more people will use navigation devices in the future than they do now? Why or why not?
 
@@ -573,6 +589,10 @@ store opens day and night
 
 ## Q8
 
+What 's the first product scheduled to be released in May?
+
+- the first product to be released in May is Univers 33 which is mobile phone. it will be released on May 26th. do you want more details about it?
+
 I heard that there is an awards and recognitions session scheduled. is that correct?
 
 - unforntunately, you have a wrong information. The Awards and Recognitions Session scheduled for Outstanding Emplyee of the Month has been cancelled. do you want more details about it?
@@ -607,6 +627,10 @@ When is my ..
 
 ## Q9
 
+To be Determined인 상품이 곧 출시된다고 알고 있을때
+
+- No, you have the wrong information. Sound ZM actually doesn't have a release date. because, it has not yet been determined.
+
 I have to do some work during my stay. Will I be able to send e-mails from my room?
 
 - Yes. You will be able to send e-amils. The hotel has Wi-Fi in all the guest rooms.
@@ -626,6 +650,10 @@ I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 - I'm sorry, but that information is incorrect. The orchestra concert is scheduled for Tuesday, November 1st. it will start at 7PM.
 
 ## Q10
+
+april에 release 되는 상품 들이 뭐에요?
+
+- there are two mobile phones. First U3 will be released on the 3rd, and Royal 07 comes out on the 16th. Also, we are going to release a tablet PC called WindPad 4 on the 34rd. These are all the products to be released in April
 
 I work with Tommy Owen. Can you tell me what he is in charge of during the meeting?
 
@@ -653,6 +681,27 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+When you make new friends, what characteristic do you consider the Most? Reliability, Humor, Generosity.
+
+- I think that humor is the most important characteristic in a new friend for many reasons.
+
+- first, humorous person is usually positive. so they can make any situation better by finding humor in a bad situation.
+  so, they can save the problem more effectively, and efficiently.
+
+- However, it is not really possible when i think about other options.
+
+- also, I think this is what really matters now. society tells people to be a humorous people but most people don't follow that. so it's getting more and more important i think.
+
+- and not just me, but most people think that, to incraese life quality, to be humorous people is good solution. so these are the reasons.
+
+  
+
+- 유머러스한 사람은 긍정적이기도 함 -> 좋지 않은 상황에서도 유머를 찾음으로써 어떤 상황이든 나아지게 할 수 있음
+  - A humorous person is also positive. so, they can make any situation better by finding humor in a bad situation.
+- 다른 사람들을 편안하게 만들 수 있음 -> 나를 웃게 할 수 있고, 친구들과 함께 웃는 것은 스트레스를 해소하는 좋은 방법임.
+  - also, they can make others feel relaxed. good atmosphere.
+  - they can make me laugh, where I talk will them, I can relieve the stress of my daily routine.
 
 What are some advantages of living in the same town for a long time?
 
@@ -935,7 +984,7 @@ I can relieve the stress of my daily routine
 I can have new experience. and expand my view.
 새로운 경험을 할 수 있고, 시야도 넓힐 수 있어요.
 
-I can meet people from diverse cultural background.
+I can meet people from diverse cultural backgrounds.
 다양한 문화적 배경을 가진 사람들을 만날 수 있습니다.
 
 Q. Do you agree or disagree with the following statement? 
