@@ -84,6 +84,23 @@
 
 ### 문제 풀기
 
+- (L12-3) 나무와 사람이 있는 길가
+  - This picture was taken in a viliage (outdoors)
+    - potted plants, flowers, three people, empty chair
+  - What I notice first is big tree with flowers and plenty of leaves next to the brick road.
+  - on the left side of the picture, there are some wooden chairs with blue covers
+  - and there are standing board and potted plants on the right.
+  - in the distance(in the background), three people are walking along the road.
+  - generally, this picture looks calm and peaceful, and it gives me positive feelings.
+- (L12-4) 실내에서 청소를 하고 있는 사람들
+  - This picture was taken at an office.
+  - What i notice first is three people cleaning the office. they are wearing blue aprons. and yellow rubber gloves.
+  - on the left, a man is vacuuming the floor.
+  - on the right, a woman is wiping a monitor on a desk.
+  - and another woman is cleaning the window.
+  - I can see the outside through the window.
+  - overall, this picture looks lively and energetic and it gives me positive feelings.
+
 - (L11-3) 나무에 아이와 엄마 (소수의 사람이 중심인 사진)
   - This picture was taken outdoors
   - what i notice first is a woman wearing heavy clothes(hats and gloves). she is walking with her two son. one of them is holding mother's hand.
