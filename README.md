@@ -421,6 +421,10 @@ also,
 
 ## Q5
 
+What day of the week do you usually go to the library and at what time?
+
+- I normally go to the library on Saturdays, and I go in the morning before it gets busy.
+
 When was the last time you traveled on a train, and where did you go?
 
 - The last time I traveled on a train was two weeks ago. I went to Busan for a weekend trip. (I went to Busan to meet my friend)
@@ -487,6 +491,10 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+Do you think there should be a new library in your town? why or why not?
+
+- No I don't think we need to have another library in our town. there's a library with nice facitlities in my town. and it's just a block away to go there.
+
 When you buy train tickets, do you prefer to buy them on the internet or at the station?
 
 - When I buy train tickets,. I prefer to buy them online. then, I can save my time, effort. and I can buy train tickets anytime and anywhere that I want. also,
@@ -524,6 +532,17 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+Which of the following is the most important in improving a library's services?
+
+- I think the most important thing for improving a library's services is to offer a greater selection of books. 
+- first of all, if there is greate selection of books, I can get the information that I need from many books. so I can get the experience and expand my view more effectively, and efficiently.
+  - people like to read books in a comfortable space.
+  - children need a child-friendly environment to enjoy books. 
+- However, it is not really ~
+- Also, I can solve many kinds of problems or situations from many kinds of books. so, I can fully concentrate on my work, become productive, and have a better outcome.
+  - People can experience more than just reading books. it will attract more visitors.
+- so, these are the reasons.
 
 I want to go shomewhere for vacation on a train, Can you recommend a destination for me?
 
@@ -606,6 +625,10 @@ store opens day and night
 
 ## Q8
 
+When will you be accepting volunteers, and who do i contact about signing up?
+
+- We will be accepting volunteer applications from September 10 to the 17. and you can contact Norah Willis to sign up/
+
 What 's the first product scheduled to be released in May?
 
 - the first product to be released in May is Univers 33 which is mobile phone. it will be released on May 26th. do you want more details about it?
@@ -644,6 +667,10 @@ When is my ..
 
 ## Q9
 
+I want to invite my friend and family to come to the fair. What date does it open to the public?\
+
+- The county fair opens for visitors on October 2. If you have any questions about that, you can contact Janice Walter,
+
 To be Determined인 상품이 곧 출시된다고 알고 있을때
 
 - No, you have the wrong information. Sound ZM actually doesn't have a release date. because, it has not yet been determined.
@@ -667,6 +694,12 @@ I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 - I'm sorry, but that information is incorrect. The orchestra concert is scheduled for Tuesday, November 1st. it will start at 7PM.
 
 ## Q10
+
+9월 25일 이후에 일을 도울 수 있어요. 뭘 해야 할까요?
+
+- 9월 26일 이후의 내용을 설명
+  - there are three events you are looking for.
+  - from ~ to ~, we are going to V(you can help with ~ ing)
 
 april에 release 되는 상품 들이 뭐에요?
 
@@ -698,6 +731,17 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+Do you agree and disagree with the following statement? 
+The best way for a manager to evaluate an employee is through assessing their work attitude.
+
+- I agree that the ~ work attitude for many reasons.
+- first, as a employ. the employee with good work attitude usually makes good performaces. they usually knows i don't know. so I can get the information that i need from them more effectively, and efficienty.
+  - Employees who are enthusiastic usually bring positive energy to the team.
+  - Employees with a positive attitude usually have excellent work performance.
+- however it is not really ~~ options.
+- also, i think, this is what really matters now. society tells people to get a good attitude but most employees don't follow that so it is getting more and more important i think to imporve PS skills and develop self decipline.
+- And not just me, but most people think that ~ is way better. so these are the reasons.
 
 When you make new friends, what characteristic do you consider the Most? Reliability, Humor, Generosity.
 
