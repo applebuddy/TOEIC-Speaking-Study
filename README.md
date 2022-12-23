@@ -439,6 +439,11 @@ also,
 
 ## Q5
 
+how often do you go to a convenience store, and where is the nearest one from your house?
+
+- I go to a convenience store about once or twice a day. 
+- and the nearest one from my house is a block away. it takes about 10 minutes on foot. (it is located within a short walking distance)
+
 What day of the week do you usually go to the library and at what time?
 
 - I normally go to the library on Saturdays, and I go in the morning before it gets busy.
@@ -509,6 +514,11 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+What do you normally buy at convenience stores?
+
+- I buy various items ranging from snacks to daily necessities that I forget to bring from home or unexpectedly need. sucj as socks.
+- I usually buy snacks such as sweets and beverages at a convenience stores. sometimes, i can buy that at a resonable prices there.
+
 Do you think there should be a new library in your town? why or why not?
 
 - No I don't think we need to have another library in our town. there's a library with nice facitlities in my town. and it's just a block away to go there.
@@ -550,6 +560,14 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+Do you suggest that I go to a convenience store rather than to a supermarket?
+
+- Yes I recommend that you go to a convenience store rather than to a supermarket.
+- first, convenience store open everyday(24 / 7 도 가능). so I can buy items at a convenience store anytime and anywhere I want.
+  - first, convenience stores usually open all day long, so you can even go there and grab(사는 것, purchase, buy) some snacks at two(새벽 2시) in the morning
+- also, somtimes, there are many kinds of discount events at a convenicne store. so I can buy something at a resonable prices. so these are the reasons.
+  - secondly, convenience stores are located almost everywhere, so you can find one easily whenever you need one.
 
 Which of the following is the most important in improving a library's services?
 
@@ -643,6 +661,10 @@ store opens day and night
 
 ## Q8
 
+When do I need to sign up by, and what do i need to bring to the seminar?
+
+- You need to register by June 15, and you have to bring a photo ID for check-in.
+
 When will you be accepting volunteers, and who do i contact about signing up?
 
 - We will be accepting volunteer applications from September 10 to the 17. and you can contact Norah Willis to sign up/
@@ -685,7 +707,12 @@ When is my ..
 
 ## Q9
 
-I want to invite my friend and family to come to the fair. What date does it open to the public?\
+I'm not planning on bringing my car there. How can I get to the venue?
+
+- A shuttle will be provided to and from the hotel. it will leave every half hour between 8 A.M. and 8 P.M.
+- You can get to the venue by taking a shuttle from the hotel. There is a shuttle every half hour between 8 A.M. and 8 P.M.
+
+I want to invite my friend and family to come to the fair. What date does it open to the public?
 
 - The county fair opens for visitors on October 2. If you have any questions about that, you can contact Janice Walter,
 
@@ -749,6 +776,18 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+Do you agree or disagree with the following statement?
+Employee satisfaction is vital to a company's success, Use specific ideas and examples to support you opinion.
+
+- I agree that Employee satisfaction is vital to a company's success for many reasons.
+
+- 더 높은 직원 만족은 더 높은 생산성을 의미함 -> 만족한 직원들은 회사를 위해 열심히 일하도록 더 동기 부여 됨
+  - first of all, higher employee satisfaction means higher productivity. satisfied employees are more motivated to work hard for their company. so overall work efficiency will increase.
+- 행복한 직원들은 그들의 회사에 더 오래 머무를 것이며 이는 회사에 도움이 됨 -> 회사는 항상 신입 사원들을 교육하는 것에 돈과 시간을 쓸 필요가 없을 것임.
+  - secondly, happy workers will stay at their company longer, which helps the company. then, company won't constantly have to spend money and time traning new employees.
+
+
 
 Do you agree and disagree with the following statement? 
 The best way for a manager to evaluate an employee is through assessing their work attitude.
