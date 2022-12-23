@@ -84,6 +84,24 @@
 
 ### 문제 풀기
 
+- (L13-3) 분수대 앞의 아빠와 아들
+
+  - This picture was taken in front of a fountain. (outdoors)
+  - What i notice first is two people sitting on the fountain and they are wearing jeans. the boy is sitting on the man's lap
+
+  - across the fountain(in the background), I can see a group of people and a white building
+  - in the background, there're some trees with pleny of branches
+  - the weather is sunny, and very good for outdoor activities. and this picture looks lively and energetic. it gives me positive feelings.
+
+- (L13-4) 부엌에서 일을하고 있는 요리사들
+
+  - This picture was taken in a kitchen.
+  - What i notice first is five chefs in white uniforms.
+    - some are wearing black hats, while others are wearing white hats.
+  - on counters, vegitables and some sauce bottles can be seen.
+  - at the top of the picture cooking utencils(tools) hanging from above
+  - Overall, it looks like all the chefs are busy preparing food. (food는 불가산이기 때문에 foods로 쓰면 안됨!)
+
 - (L12-3) 나무와 사람이 있는 길가
   - This picture was taken in a viliage (outdoors)
     - potted plants, flowers, three people, empty chair
