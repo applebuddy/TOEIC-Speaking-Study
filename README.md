@@ -84,6 +84,22 @@
 
 ### 문제 풀기
 
+- (L14-3) 사무실에서 대화하는 직원 2명
+  - This picture was taken in an office.
+  - What i notice is two people sitting across from each other, and talking to each other.
+    - they are wearing black formal suits.
+  - on the desk, on laptop, open book, documents can be seen.
+  - behind the woman, a plant and a rectangular pillar(직사각형 기둥)   with a picture on it.
+  - overall, it seems like two people are having a meeting.
+- (L14-4) 야외에서 줄을서서 기다리는 사람들
+  - This picture was taken at a bus station. (outdoors)
+  - What i notice first is five people standing in a line, waiting for the bus.
+  - brown-haird man in the front is wearking a gray suit with blue tie. and using his phone.
+  - everyone behind him, they are wearing casual clothes.
+  - in the background, there are orange buses passing by.
+  - overall, it seems like many people waiting for the bus.
+    - it looks like a typical scene at a bus stop.
+
 - (L13-3) 분수대 앞의 아빠와 아들
 
   - This picture was taken in front of a fountain. (outdoors)
