@@ -84,6 +84,21 @@
 
 ### 문제 풀기
 
+- (L15-3) 부엌 주위에 있는 사람들
+  - This picture was taken in a kitchen
+  - What i notice first is five people around the kitchen counter. on the left, a man is cooking, opposite him, three people are seated with some food in front of them. 
+  - Also, there is a woman pouring wine(불가산 명사) into a glass.
+  - in the background, I can see dining area next to a white stairway.
+  - also, there are lots of pictures hanging on the wall.
+  - Overall, it seems like some friends are having fun together.
+- (L15-4) 열차 옆에서 뭔가 하는 두 사람
+  - This picture was taken at a train station.
+  - What I notice first is two people standing on the platform. a woman wearing a hat and sunglasses, holding a smartphone.
+  - next to her, a man looking at the(이미 언급된 걸 지칭할때는 the를 사용) smartphone is wearing casual clothes.
+  - beside them, I can see train on the track.
+  - in the distance(in the background), a sign is showing(saying) the number 6.
+  - it seems like they are waiting for the train. 
+
 - (L14-3) 사무실에서 대화하는 직원 2명
   - This picture was taken in an office.
   - What i notice is two people sitting across from each other, and talking to each other.
