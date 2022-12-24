@@ -455,6 +455,10 @@ also,
 
 ## Q5
 
+how often do you go shopping for clothes, and when was the last time you bought clothes.
+
+- I go shopping for clothes about once or twice a month. the last time i bough clothes was last week. i bought some casual clothes with my mother. i'm very into that kind of stuff.
+
 how often do you go to a convenience store, and where is the nearest one from your house?
 
 - I go to a convenience store about once or twice a day. 
@@ -530,6 +534,11 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+Who do you usually go shopping with? Why?
+
+- I usually go shopping with my mother. she knows me very well. so, I can buy some clothes more effectively, and efficiently with my mother. and i'm very into that kind of stuff.
+- I usually go shopping alone. well, i love shopping alone, because I can fully concentrate on shopping. and I can look around the shopping malls as much as i want.
+
 What do you normally buy at convenience stores?
 
 - I buy various items ranging from snacks to daily necessities that I forget to bring from home or unexpectedly need. sucj as socks.
@@ -576,6 +585,13 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+Do you think there should be more clothing stores where you live? Why or why not?
+
+- No, I don't think there should be some clothing stores where I live for many reasons.
+- because there's department store near my house. it's just a block away. and it takes 10 minutes on foot. also. there are many kinds of items in at department store. so I can buy something more effectively, and efficiently.
+  - I only buy clothes from my favorite shops. They carry lots of items, and the quality of the clothes is pretty good. Also, the clothing stores are all located near my house. They are located within a short walking distance.
+  - carry 운반하다, 취급하다.
 
 Do you suggest that I go to a convenience store rather than to a supermarket?
 
@@ -677,6 +693,10 @@ store opens day and night
 
 ## Q8
 
+I heard that you offer a hiking trip. When is this trip, and how much is it?
+
+- the hiking trips is every day from monday to friday. it start at 8:30 A.M. and cost 10 dollars per person.
+
 When do I need to sign up by, and what do i need to bring to the seminar?
 
 - You need to register by June 15, and you have to bring a photo ID for check-in.
@@ -723,6 +743,10 @@ When is my ..
 
 ## Q9
 
+I'm interested ini the cooking class. But I heard that I have to pay extra for ingredients. is that correct?
+
+- No, you have the wrong information. The cost of ingredients is included in the price of the class, which is $25 per person.
+
 I'm not planning on bringing my car there. How can I get to the venue?
 
 - A shuttle will be provided to and from the hotel. it will leave every half hour between 8 A.M. and 8 P.M.
@@ -755,6 +779,13 @@ I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 - I'm sorry, but that information is incorrect. The orchestra concert is scheduled for Tuesday, November 1st. it will start at 7PM.
 
 ## Q10
+
+무료 이벤트가 무엇이 있나요?
+
+- There are two free activities you are looking for. 
+- first activity is Campfire at the Beach at 7:30 P.M. from Friday to Sunday.
+- second activity is Movie Night at 8:30 P.M. Every Tuesday and Thursday.
+- Sure, I can recommend two free activities. First, the campfire at the beach is free. This is held at 7:30 P.M. on Firdays, Saturdays, and Sundays. Second, we also have movie nights at 8:30 P.M. on Tuesdays and Thursdays. These are the activities you can enjoy for free at our resort.
 
 9월 25일 이후에 일을 도울 수 있어요. 뭘 해야 할까요?
 
@@ -792,6 +823,18 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+Do you agree or disagree with the following statement?
+The most effective method of educating childrens to teach them one-on-one.
+
+- I agree that The most effective method of educatinig chilidrens to teach them one-on-one for many reasons.
+- first of all, if we educate childrens to teach them one-on-one, they can fully concentrate on their work, become productive, and have a better outcome. with their teacher.
+  - children will concentrate on their learning, become productive, and have a better outcome.
+  - also, chilidren will ask questions and share some ideas and opinions freely.
+- however, it is not really possible when i think about other options,
+- also, I think, this is what really matters now. society tells parents to their children one-on-one. but most parents don't follow that. so it is getting more and more important i think.
+- teaching them one-on-one is very important. it have positive effects on children. but they are not fully developed mentally and physically. so they need care and control from their teacher. 
+- so, these are the reasons.
 
 Do you agree or disagree with the following statement?
 Employee satisfaction is vital to a company's success, Use specific ideas and examples to support you opinion.
