@@ -470,6 +470,10 @@ also,
 
 ## Q5
 
+What are your plans for your next vacation, and who are you going with?
+
+- For my next vacation, I plan to go to the beach with my friends. we are going to swim and eat some fresh sea food with my friends. and i'm very into that kind of stuff.
+
 how often do you go shopping for clothes, and when was the last time you bought clothes.
 
 - I go shopping for clothes about once or twice a month. the last time i bough clothes was last week. i bought some casual clothes with my mother. i'm very into that kind of stuff.
@@ -549,6 +553,11 @@ How far? ... 은 거리에 관한 질문이다.
 
 ## Q6
 
+That sounds nice. How far in advance do you usually plan your vacations?
+
+- I usually plan my trips about three weeks ahead of time. I try to book hotels and find some activities to do aty my destination in advance.
+  - I book hotels and plan what to do when I get there.
+
 Who do you usually go shopping with? Why?
 
 - I usually go shopping with my mother. she knows me very well. so, I can buy some clothes more effectively, and efficiently with my mother. and i'm very into that kind of stuff.
@@ -600,6 +609,26 @@ And what kind of things do you usually buy there?
 - I usually buy fruit and vegetables there. The fruit and vegetables there are fresh and are usually available at a reasonable price. I'm very into that kind of stuff.
 
 ## Q7
+
+What do you consider most when choosing a place for your vacation?
+
+- When I choose a place for my vacation, I consider the cost the most.
+
+- first of all, If i choose a place at a resonable prices, I can save my time, money and efforts to choose the place.
+
+  - I don't want to spend lots of money on ~~~
+  - If I can save on ~, I can spend more money on other important things!
+  - I have to consider finance all the time.
+
+- also, I can do other things with my extra money.
+
+- so I can do many kinds of things when I get there. then, I can enjoy my time more effectively and efficiently.
+
+- so these are the reasons.
+
+  - dim sum 만두
+
+  
 
 Do you think there should be more clothing stores where you live? Why or why not?
 
@@ -708,6 +737,10 @@ store opens day and night
 
 ## Q8
 
+When am i going to the Architecture and Design Expo, and when does it end?
+
+- You are going to the Architecture and Design Expo at 9:00 A.M. on Tuesday. and it ends at 4:30 P.M.
+
 I heard that you offer a hiking trip. When is this trip, and how much is it?
 
 - the hiking trips is every day from monday to friday. it start at 8:30 A.M. and cost 10 dollars per person.
@@ -758,6 +791,11 @@ When is my ..
 
 ## Q9
 
+(hard) If I'm not mistaken, I'm transferring in Dallas on my way back to Atlanta, right?
+
+- Actually, no. You are flying directly from Los Angeles to Atlanta on American Airlines fight TF 897. You depart at 5:00 P.M. on Wednesday, September 4, and arrive at 9:00 P.M.
+- Actually, no You will dapart Los Angeles with American Airlines TF 897 at 5:00P.M on Wednessday, September 4, and you will arrive in Atlanta at 9:00 P.M. do you want more details about it?
+
 I'm interested ini the cooking class. But I heard that I have to pay extra for ingredients. is that correct?
 
 - No, you have the wrong information. The cost of ingredients is included in the price of the class, which is $25 per person.
@@ -794,6 +832,10 @@ I heard that I'll be going to the orchestra concert on Sunday. Is that right?
 - I'm sorry, but that information is incorrect. The orchestra concert is scheduled for Tuesday, November 1st. it will start at 7PM.
 
 ## Q10
+
+월요일 오후, 로스 엔젤레스 토착 후에 어떤 스케쥴이 있나요?
+
+- Sure, I can tell you the details of Monday afternoon's schedule after you arrive. First, you will attend a lecture at the LA Design Meseum at 3:00 P.M. and then at 6:00P.M., you will have dinner will Frank Arnold, the interior designer. (do you want more details about it?)
 
 무료 이벤트가 무엇이 있나요?
 
@@ -838,6 +880,21 @@ Can you let me know what I'll be doing on the second day of my trip?
 
 
 ## Q11
+
+For employees, do you think it is better to communicate with work colleagues in person or via e-mail? Support your answer with reasons or examples.
+
+- I think it is better to communicate with work colleagues via e-mail for many reasons.
+- First of all, if i use the email, I can communicate with work colleagues anytime, and anywhere that I want. so, I can save my time, efforst to communicate with them.
+  - sending e-mails is more convenient for both the sender and the receiver. To be specific, a person may be in the middle of something important and complicated, and if i go to speak to hime or her in person, I could disturb him or her. But if I send an e-mail, the recipient can view it when it is convenient for him or her.
+  - employees can share some ideas and opinions immediately and continue to communicate.
+  - employees acn express their feelings better by using facial expressions and body language. which helps them understand each other better.
+  - employees can engage in the conversation better and value each other's opinions. 직  원들은 좀 더 대화에 적극적으로 참여하고, 서로의 의견을 더 존중합니다.
+- However, it is not really possible when I think about the other options.
+- also, I think, this is what really matters now. society tells employees to communicate with work colleagues with email. but most employees don't follow that. so, to increase their productivity, it is getting more and more important I think.
+  - it's easier to share a lot of information at once through e-mail because I can attach multiple files.
+- also, we can share some ideas or opinions more effectively, and efficiently with email.
+  - Also, e-mails are an effective way to keep track of information exchanged.
+- so, these are the reasons.
 
 Do you agree or disagree with the following statement?
 The most effective method of educating childrens to teach them one-on-one.
